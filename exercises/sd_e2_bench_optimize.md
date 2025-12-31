@@ -20,4 +20,3 @@ Go to:
 - Reduce unnecessary temporary allocations
 - Improve data layout and loop structure
 - Compare benchmark results before vs after
-
